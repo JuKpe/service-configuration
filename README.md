@@ -1,2 +1,2 @@
 # service-configuration
-configuración centraliada - Spring Could Config
+configuración centralizada - Spring Could Config
